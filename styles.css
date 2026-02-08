@@ -24,6 +24,7 @@ body {
 
 .images {
     margin-top: 50px;
+    max-width: 100%;
 }
 
 .links {
