@@ -23,8 +23,12 @@ body {
 }
 
 .images {
-    margin-top: 50px;
     max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+    margin-top: 50;
+    width: auto;
+    display: block;
 }
 
 .links {
